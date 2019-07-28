@@ -1,6 +1,7 @@
 <H1>YKit</H1>
 <div align="center">
   <img alt="GitHub release" src="https://img.shields.io/badge/java-%3E%3D1.8-blue">
+  <img alt="GitHub release" src="https://img.shields.io/github/release-pre/BegoniaGit/YKit">
 <a href="https://github.com/BegoniaGit/YKit/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/BegoniaGit/YKit"></a>
 </div>
 
